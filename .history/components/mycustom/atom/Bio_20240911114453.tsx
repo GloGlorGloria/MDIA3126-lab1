@@ -5,7 +5,6 @@ export default function Bio({ BioText }){
             style={{
                 color:"green",
                 textAlign: "justify",
-                fontStyle: "italic",
                 fontSize: 18,
             }}>{BioText}</p>
     </View>

@@ -4,9 +4,8 @@ export default function Bio({ NameText }){
         <h1
             style={{
                 color:"blue",
-                fontFamily: "cursive",
-                fontSize: 40,
-                marginBottom: 0,
+                fontFamily: "Ubuntu",
+
             }}>{NameText}</h1>
     </View>
 };
